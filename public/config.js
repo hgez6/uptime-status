@@ -1,15 +1,14 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: '大鸟各站点监控',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm792879838-9d964b37c6c86cf2450409de',
+    'm792879839-e569da1ad4165a8914f18dc5',
+    'm792879836-dbde497a4d7a537229d99502',
   ],
 
   // 日志天数
@@ -21,16 +20,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '大鸟主站',
+      url: 'https://hgez6.top/'
     },
     {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      text: '大鸟云盘',
+      url: 'https://yun.hgez6.top'
     },
     {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
+      text: 'E5云',
+      url: 'https://e5.hgez6.top/'
     },
   ],
 };
